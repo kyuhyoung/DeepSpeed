@@ -4,6 +4,7 @@
 DeepSpeed is a deep learning optimization library that makes distributed training easy,
 efficient, and effective.
 
+
 <p align="center"><i><b>10x Larger Models</b></i></p>
 <p align="center"><i><b>5x Faster Training</b></i></p>
 <p align="center"><i><b>Minimal Code Change</b></i></p>
